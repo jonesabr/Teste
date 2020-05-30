@@ -1,0 +1,60 @@
+body{
+//  background-color: #01c4de;
+  background-color:rgb(169, 215, 221);
+}
+.name {
+  font-weight: bold;
+  color:red;
+}
+h1 {
+  text-shadow: 3px 3px #0000ff;
+  color: darkmagenta;
+//  text-align: center;
+}
+/*
+p {
+    color:blue;
+}*/
+#mytag {
+  text-align:center;
+  color:green;
+}
+table {
+  border: 3px solid gray;
+  border-collapse: collapse;
+  background-color: white;
+/*  width: 50%;*/
+  width: 500px;
+}
+th {
+  background-color: lightgray;
+}
+th, td {
+  border: 1px solid blue;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+}
+div {
+  left:500px;
+  font-family: Arial, sans-serif;
+  font-size: 28px;
+  background-color:lightgray;
+  font-weight: bold;
+  border: 8px dotted red;
+  width: 300px;
+  height: 150px;
+  margin: 30px;
+  padding: 10px;
+}
+.classe1 {
+  background:blue;
+}
+/*
+p.myblueclass {
+  color: blue;
+}
+*/
+.purple {
+  color:purple;
+}
